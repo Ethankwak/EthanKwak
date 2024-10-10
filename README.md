@@ -1,8 +1,8 @@
 ## Hi there 👋
- 💬My name is Ethan and I am a 4th year student studying Computer Science specializing in Web Development.
- 🌱 I am knowledgable in languages such as C++ and python, but am looking to expand on my knowledge through learning JavaScript, React, C##, through current classes, and projects.
+ 💬My name is Ethan and I am a 4th year student studying Computer Science specializing in Web Development. <br />
+ 🌱 I am knowledgable in languages such as C++ and python, but am looking to expand on my knowledge through learning JavaScript, React, C##, through current classes, and projects. <br />
 
-⚡Outside of tech I enjoy video games, poker, various sports, and fashion.
+⚡Outside of tech I enjoy video games, poker, various sports, and fashion. <br />
 <!--
 **Ethankwak/EthanKwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
