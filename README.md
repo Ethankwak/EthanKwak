@@ -3,6 +3,8 @@
  
  🌱 I am knowledgable in languages such as C++ and python, but am looking to expand on my knowledge through learning JavaScript, React, C##, through current classes, and projects. <br />
 
+ 📝 I am currently working on a year long Capstone project with my University in conjunction with our sponsor company.
+
 ⚡Outside of tech I enjoy video games, poker, various sports, and fashion. <br />
 <!--
 **Ethankwak/EthanKwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
